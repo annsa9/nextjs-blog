@@ -25,7 +25,7 @@ export default function Home({allPostsData}) {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="/static/images/icons/apple-touch-icon.png"
+          href="/images/icons/apple-touch-icon.png"
         />
         <link
           rel="icon"
