@@ -18,6 +18,7 @@
     "tailwindcss": "^1.4.6"
   },
   "devDependencies": {
+    "next-pwa": "^2.5.0",
     "sass": "^1.26.8"
   }
 }

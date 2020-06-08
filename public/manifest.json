@@ -1,0 +1,39 @@
+{
+  "name": "Next Progressive Web App",
+  "short_name": "Next PWA",
+  "description": "Next for progressive web app with push notifications, background sync etc.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f5",
+  "theme_color": "#29434d",
+  "icons": [
+    {
+      "src": "/static/images/icons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/static/images/icons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/static/images/icons/android-maskable-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/static/images/icons/android-maskable-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "author": {
+    "name": "Arunsing",
+    "github": "https://github.com/annsa9",
+    "source-repo": "https://github.com/annsa9/nextjs-blog"
+  }
+}
